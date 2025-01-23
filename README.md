@@ -1,4 +1,4 @@
-Welcome to the Parker wiki!
+Welcome to Parker!
 
 Parker is available on Itch.io: <a href="https://meter-g-a-m-e-s.itch.io/parker">Parker</a>
 
