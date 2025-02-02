@@ -1,6 +1,10 @@
-Welcome to Parker!
+<link href="https://fonts.googleapis.com/css2?family=ABeeZee&display=swap" rel="stylesheet">
 
-Parker is available on Itch.io: <a href="https://meter-g-a-m-e-s.itch.io/parker">Parker</a>
+<div style="background-color: #fff9f9; padding: 10px; color: #171616; font-family: 'ABeeZee'">
+
+# parker
+
+### Parker is available on Itch.io: <u><a href="https://meter-g-a-m-e-s.itch.io/parker" style="color: #171616;">Parker on Itch.io</a></u>
 
 <img width="32%" src="https://github.com/user-attachments/assets/8c2ff9dd-cf02-4c18-ad90-b19f2ca40d9c"/>
 <img width="32%" src="https://github.com/user-attachments/assets/0a8a1f02-d7cd-44f5-ad36-87c1266d918c"/>
@@ -8,13 +12,17 @@ Parker is available on Itch.io: <a href="https://meter-g-a-m-e-s.itch.io/parker"
 
 <h2><strong>Update Log</strong></h3>
 
-<a href="https://github.com/metergames/parker/wiki#version-13">Version 1.3</a>
+<u>
 
-<a href="https://github.com/metergames/parker/wiki#version-12">Version 1.2</a>
+<a href="https://github.com/metergames/parker/wiki#version-13" style="color: #171616;">Version 1.3</a>
 
-<a href="https://github.com/metergames/parker/wiki#version-11">Version 1.1</a>
+<a href="https://github.com/metergames/parker/wiki#version-12" style="color: #171616;">Version 1.2</a>
 
-<a href="https://github.com/metergames/parker/wiki#version-10">Version 1.0</a>
+<a href="https://github.com/metergames/parker/wiki#version-11" style="color: #171616;">Version 1.1</a>
+
+<a href="https://github.com/metergames/parker/wiki#version-10" style="color: #171616;">Version 1.0</a>
+
+</u>
 
 <h3><string>Version 1.3</strong></h3>
 <ul>
@@ -63,6 +71,12 @@ Parker is available on Itch.io: <a href="https://meter-g-a-m-e-s.itch.io/parker"
 
 <br>
 
-<a href="https://github.com/metergames/parker/wiki/Terms-And-Conditions/">Terms And Conditions</a>
+<u>
 
-<a href="https://github.com/metergames/parker/wiki/Privacy-Policy/">Privacy Policy</a>
+<a href="https://github.com/metergames/parker/wiki/Terms-And-Conditions/" style="color: #171616;">Terms And Conditions</a>
+
+<a href="https://github.com/metergames/parker/wiki/Privacy-Policy/" style="color: #171616;">Privacy Policy</a>
+
+</u>
+
+</div>
